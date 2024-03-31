@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj": {}
+    "D:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj": {
+    "D:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj",
+        "projectUniqueName": "D:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj",
         "projectName": "Proyecto_Final_Pro3",
-        "projectPath": "C:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj",
-        "packagesPath": "C:\\Users\\JOEL SOTO\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto_Final_Pro3\\obj\\",
+        "projectPath": "D:\\Proyecto_Final_Pro3\\Proyecto_Final_Pro3.csproj",
+        "packagesPath": "C:\\Users\\majo\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyecto_Final_Pro3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JOEL SOTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\majo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
