@@ -1,34 +1,34 @@
 using System;
 using System.Collections.Generic;
 namespace practico{
-class Serie
+public class Serie
 {
 
-    static void ejercicio1(int n)
+    public static void ejercicio1(int n)
     {
         int resultado = CalcularFibonacci(n);
         Console.WriteLine($"El {n}-ésimo término de la serie de Fibonacci es: {resultado}");
     }
 
-    static void ejercicio2(int n)
+    public static void ejercicio2(int n)
     {
         int resultado = CalcularSerie1(n);
         Console.WriteLine($"El {n}-ésimo término de la serie 1 es: {resultado}");
     }
 
-    static void ejercicio3(int n)
+    public static void ejercicio3(int n)
     {
         int resultado = CalcularSumaSerie(n);
         Console.WriteLine($"La suma de los primeros {n} términos de la serie es: {resultado}");
     }
 
-    static void ejercicio4(int n)
+    public static void ejercicio4(int n)
     {
         int resultado = CalcularSerie2(n);
         Console.WriteLine($"El {n}-ésimo término de la serie 2 es: {resultado}");
     }
 
-    static void ejercicio5(int n)
+    public static void ejercicio5(int n)
     {
         List<int> serie = GenerarSerie(n);
         int sumaPares = SumarNumerosPares(serie);

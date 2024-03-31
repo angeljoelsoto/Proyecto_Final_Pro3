@@ -6,7 +6,7 @@ namespace practico
     {
         static void Main(String[] args)
         {
-            Serie.ejercicio4(1575475);
+            
         }
     }
 }
