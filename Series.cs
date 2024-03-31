@@ -1,14 +1,8 @@
 using System;
-using System;
 using System.Collections.Generic;
 namespace practico{
-class Series 
+class serie
 {
-    static void Main(string[] args)
-    {
-        // Llamar a los métodos con los valores de n ya obtenidos
-        ejercicio5(6);
-    }
 
     static void ejercicio1(int n)
     {
@@ -156,5 +150,5 @@ class Series
             return previo * 2 + 1;
         }
     }
-  }
+}
 }
