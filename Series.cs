@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 namespace practico{
-class serie
+class Serie
 {
 
     static void ejercicio1(int n)

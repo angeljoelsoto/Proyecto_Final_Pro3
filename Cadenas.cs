@@ -1,5 +1,5 @@
 using System;
-
+namespace practico{
 public class Cadenas
 {
     public static void ejercicio1()
@@ -116,7 +116,7 @@ public class Cadenas
         Console.WriteLine("palabras invertidas: " + palabraSinPrimeraLetra);
     }
 
-    public static string InvertirPalabras(string oracion)
+    static string InvertirPalabras(string oracion)
     {
         string[] palabras = oracion.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
         for (int i = 0; i < palabras.Length; i++)
@@ -126,13 +126,13 @@ public class Cadenas
         return string.Join(" ", palabras);
     }
 
-    public static string InvertirString(string str)
+    static string InvertirString(string str)
     {
         char[] caracteres = str.ToCharArray();
         Array.Reverse(caracteres);
         return new string(caracteres);
     }
 
-
+}
 
 }

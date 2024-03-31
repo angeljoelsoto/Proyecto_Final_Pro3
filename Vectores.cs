@@ -1,14 +1,10 @@
 using System;
 namespace practico
 {
-    class Program
+    class Vectores
     {
-        static void Main(string[] args)
-        {
-            Ejercicio5();
-        }
-
-        static void Ejercicio1()
+        
+        public static void Ejercicio1()
         {
             Console.WriteLine("Ingrese los elementos del vector separados por espacios:");
             string[] valores = Console.ReadLine().Split(' ');
@@ -40,7 +36,7 @@ namespace practico
             return count;
         }
 
-        static void Ejercicio2()
+        public static void Ejercicio2()
         {
             Console.WriteLine("Ingrese los elementos del vector separados por espacios:");
             string[] valores = Console.ReadLine().Split(' ');
@@ -62,7 +58,7 @@ namespace practico
             }
         }
 
-        static void MergeSort(int[] vector, int inicio, int fin)
+        public static void MergeSort(int[] vector, int inicio, int fin)
         {
             if (inicio < fin)
             {
@@ -119,7 +115,7 @@ namespace practico
             }
         }
 
-        static void Ejercicio3()
+        public static void Ejercicio3()
         {
             Console.WriteLine("Ingrese los elementos del vector separados por espacios:");
             string[] valores = Console.ReadLine().Split(' ');
@@ -156,7 +152,7 @@ namespace practico
             }
         }
 
-        static void Ejercicio4()
+        public static void Ejercicio4()
         {
             Console.WriteLine("Ingrese los elementos del vector separados por espacios:");
             string[] valores = Console.ReadLine().Split(' ');
@@ -196,7 +192,7 @@ namespace practico
             return vector;
         }
 
-        static void Ejercicio5()
+        public static void Ejercicio5()
         {
             Console.WriteLine("Ingrese los elementos del vector separados por espacios:");
             string[] valores = Console.ReadLine().Split(' ');

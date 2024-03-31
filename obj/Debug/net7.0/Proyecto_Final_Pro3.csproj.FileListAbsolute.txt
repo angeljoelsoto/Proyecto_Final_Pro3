@@ -1,0 +1,14 @@
+C:\Proyecto_Final_Pro3\bin\Debug\net7.0\Proyecto_Final_Pro3.exe
+C:\Proyecto_Final_Pro3\bin\Debug\net7.0\Proyecto_Final_Pro3.deps.json
+C:\Proyecto_Final_Pro3\bin\Debug\net7.0\Proyecto_Final_Pro3.runtimeconfig.json
+C:\Proyecto_Final_Pro3\bin\Debug\net7.0\Proyecto_Final_Pro3.dll
+C:\Proyecto_Final_Pro3\bin\Debug\net7.0\Proyecto_Final_Pro3.pdb
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\Proyecto_Final_Pro3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\Proyecto_Final_Pro3.AssemblyInfoInputs.cache
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\Proyecto_Final_Pro3.AssemblyInfo.cs
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\Proyecto_Final_Pro3.csproj.CoreCompileInputs.cache
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\Proyecto_Final_Pro3.dll
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\refint\Proyecto_Final_Pro3.dll
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\Proyecto_Final_Pro3.pdb
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\Proyecto_Final_Pro3.genruntimeconfig.cache
+C:\Proyecto_Final_Pro3\obj\Debug\net7.0\ref\Proyecto_Final_Pro3.dll
